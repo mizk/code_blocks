@@ -1,0 +1,17 @@
+{
+  "name": "convertabi",
+  "version": "1.0.0",
+  "readme": "转换human readable abi to json format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": ["abi","json"],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ethers": "^6.12.1"
+  }
+}
